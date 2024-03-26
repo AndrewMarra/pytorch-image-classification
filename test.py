@@ -7,7 +7,7 @@ from pathlib import Path
 import matplotlib.pyplot as plt
 
 # Paths for image directory and model
-IMDIR=sys.argv[1])
+IMDIR=sys.argv[1]
 MODEL='models/resnet18.pth'
 
 # Load the model for testing
